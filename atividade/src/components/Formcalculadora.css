@@ -1,0 +1,17 @@
+.calculadora {
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 8px 15px;
+    margin: 5px;
+}
